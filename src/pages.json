@@ -5,6 +5,10 @@
 			"style": {
 				"navigationBarTitleText": "uni-app"
 			}
+		}, {
+			"path": "pages/test/page2"
+		}, {
+			"path": "pages/wait/index"
 		}
 	],
 	"globalStyle": {
